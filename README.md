@@ -1,16 +1,26 @@
-# netflix_clone
+# Netflix Clone
 
-A new Flutter project.
+A new Flutter project that replicates the basic functionalities of Netflix. This project is designed to help developers understand how to build a video streaming application using Flutter.
+
+## Features
+
+- Browse and search for movies and TV shows
+- Watch trailers and full-length videos
+- User authentication and profile management
+- Add movies and shows to a watchlist
+- Responsive design for both mobile and tablet
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: '>=3.3.1 <4.0.0'
+- Dart SDK
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/SyedAbbas-02/Netflix_Clone_Project.git
